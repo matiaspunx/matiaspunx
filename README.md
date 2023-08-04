@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @matiaspunx AKA amti
-- 👀 I’m interested in React & Firebase
-- 🌱 I’m currently learning... always learning React
-- 💞️ I’m looking to collaborate on React projects.
-- 📫 How to reach me ... matias.punx [AT] gmail.com
+- 👋 Hola, soy @matiaspunx AKA amti
+- 👀 Me encanta hacer cosas con Nextjs & Firebase
+- 🌱 Siempre estoy aprendiendo cosas nuevas.
+- 💞️ Me interesa colaborar en todo lo que tenga que ver con React
+- 📫 Buscame en matias.punx [AT] gmail.com
 
 <!---
 matiaspunx/matiaspunx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
