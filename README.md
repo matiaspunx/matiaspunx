@@ -1,4 +1,4 @@
-## ¡Hola, soy matias! 🚀
+## ¡Hola, soy matias! 🧙🏻‍♂️
 <a href="https://github.com/matiaspunx"><img align="right" width="200" src="https://matiaspunx.github.io/assets/img/crow.webp" alt="cuervo" /></a>
 
 ### Bienvenidos a mi github
