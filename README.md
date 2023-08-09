@@ -10,7 +10,9 @@
 --
 
 <div>
+    <a href="https://github.com/matiaspunx">
     <img src="https://skillicons.dev/icons?i=javascript,firebase,nextjs,react" />
+    </a>
 </div>
 
 --
