@@ -9,10 +9,9 @@
 
 --
 
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=javascript,firebase,nextjs,react" />
 </div>
-
 
 --
 
