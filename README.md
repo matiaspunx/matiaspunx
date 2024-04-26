@@ -3,6 +3,10 @@
 
 ### Bienvenidos a mi github
 
+🚀 Hago todo con Astro!
+
+⚡ Supabase para todo.
+
 👀 Me gusta desarrollar con nextjs & firebase
 
 📫 Buscame en matias.punx [AT] gmail.com
@@ -11,7 +15,7 @@
 
 <div>
     <a href="https://github.com/matiaspunx">
-    <img src="https://skillicons.dev/icons?i=javascript,firebase,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=javascript,astro,supabase,nextjs,react" />
     </a>
 </div>
 
