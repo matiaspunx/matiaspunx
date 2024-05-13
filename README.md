@@ -3,13 +3,17 @@
 
 ### Bienvenidos a mi github
 
+Soy desarrollador web desde 2005. Si queres desarrollar algo interesante hablame.
+
 🚀 Hago todo con Astro!
+
+⚛️ React <3
 
 ⚡ Supabase para todo.
 
-👀 Me gusta desarrollar con nextjs & firebase
+👀 Me gusta desarrollar con nextjs
 
-📫 Buscame en matias.punx [AT] gmail.com
+📫 Contactame en matias.punx [AT] gmail.com
 
 --
 
